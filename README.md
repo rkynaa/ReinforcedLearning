@@ -8,7 +8,7 @@ This repository includes:
 How to execute the file:
 1. open command prompt
 2. go to the folder that has the python file
-3. Type 'python *name of the file*.py' and hit enter
+3. Type 'python *(name of the file)*.py' and hit enter
 
 References:
 - Kansal, S & Martin, B 2018, Reinforcement Q-Learning from Scratch in Python with OpenAI Gym, LearnDataSci, Retrieved 29th September 2020, <https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/>
