@@ -10,7 +10,7 @@ How to execute the file:
 2. go to the folder that has the python file
 3. Type 'python *name of the file*.py' and hit enter
 
-References
-•	Kansal, S & Martin, B 2018, Reinforcement Q-Learning from Scratch in Python with OpenAI Gym, LearnDataSci, Retrieved 29th September 2020, < https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/>
-•	Sukma, G 2018, Cartpole - Introduction to Reinforcement Learning (DQN - Deep Q-Learning), Towards Data Science, Retrieved 29th September 2020, < https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288>
-•	Frans, K 2016, Simple reinforcement learning methods to learn CartPole, Kevin Frans, Retrieved 29th September 2020 < http://kvfrans.com/simple-algoritms-for-solving-cartpole/>
+References:
+- Kansal, S & Martin, B 2018, Reinforcement Q-Learning from Scratch in Python with OpenAI Gym, LearnDataSci, Retrieved 29th September 2020, < https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/>
+- Sukma, G 2018, Cartpole - Introduction to Reinforcement Learning (DQN - Deep Q-Learning), Towards Data Science, Retrieved 29th September 2020, < https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288>
+- Frans, K 2016, Simple reinforcement learning methods to learn CartPole, Kevin Frans, Retrieved 29th September 2020 < http://kvfrans.com/simple-algoritms-for-solving-cartpole/>
